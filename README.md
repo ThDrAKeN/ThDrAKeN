@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VueJS**
 
-- 👨‍💻 My portfolio is available at [thdraken.github.io/Portfolio/](thdraken.github.io/Portfolio/)
+- 👨‍💻 My portfolio is available at [thdraken.io/Portfolio/](https://thdraken.github.io/Portfolio/)
 
 - 💬 Ask me about **React, Apache Cordova and React Native**
 
