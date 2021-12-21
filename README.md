@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">A passionate JS developer from France</h3>
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👨‍💻 My portfolio is available at [thdraken.io/Portfolio/](https://thdraken.github.io/Portfolio/)
 
