@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 👨‍💻 My portfolio is available at [thdraken.io/Portfolio/](https://thdraken.github.io/Portfolio/)
+- 👨‍💻 My portfolio is available at [thdraken.io/Portfolio/](https://thdraken.github.io/portfolio-2023)
 
 - 💬 Ask me about **React, Apache Cordova and React Native**
 
